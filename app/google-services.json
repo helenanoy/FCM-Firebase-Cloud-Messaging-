@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1076305464301",
+    "firebase_url": "https://fir3bashell1.firebaseio.com",
+    "project_id": "fir3bashell1",
+    "storage_bucket": "fir3bashell1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076305464301:android:bcddb93a41677014",
+        "android_client_info": {
+          "package_name": "com.example.user.firebasecm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076305464301-m4isbpf3brgq5dhanokqmdgms9uh4ok8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQUqT0GU6_4VNmYmxX4jnhPQa2N-Q7q4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
